@@ -2,7 +2,7 @@
 /**
 *main-Entry point
 *
-*Return:always 0 (Success)
+*Return: Always 0 (Success)
 */
 int main(void)
 {
@@ -14,7 +14,7 @@ int main(void)
 		putchar(n);
 		n++;
 	}
-	while (n <= 90)
+	while (m <= 90)
 	{
 		putchar(m);
 		m++;
